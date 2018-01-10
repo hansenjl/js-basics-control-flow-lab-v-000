@@ -9,6 +9,6 @@ function scuberGreetingForFeet(ride){
   }
 }
 
-function ternaryCheckCity(){
-  
+function ternaryCheckCity(city){
+  () ? 'Ok, sounds good.' : 
 }
